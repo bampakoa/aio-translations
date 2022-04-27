@@ -20,8 +20,10 @@
 !content/guide
 !content/guide/component-overview.md
 !content/guide/localized-documentation.md
+!content/guide/reviewing-content.md
 !content/guide/setup-local.md
 !content/guide/updating-content-github-ui.md
+!content/guide/updating-search-keywords.md
 !content/guide/what-is-angular.md
 
 !src
