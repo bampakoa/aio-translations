@@ -17,6 +17,12 @@
 !content/tutorial
 !content/tutorial/*
 
+!content/errors
+!content/errors/NG0100.md
+!content/errors/NG0200.md
+!content/errors/NG0201.md
+!content/errors/NG0300.md
+
 !content/guide
 !content/guide/component-overview.md
 !content/guide/localized-documentation.md
