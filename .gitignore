@@ -32,6 +32,12 @@
 !content/guide/updating-search-keywords.md
 !content/guide/what-is-angular.md
 
+!tools
+!tools/transforms
+!tools/transforms/templates
+!tools/transforms/templates/lib
+!tools/transforms/templates/lib/githubLinks.html
+
 !src
 !src/app
 
@@ -46,3 +52,8 @@
 !src/app/shared
 !src/app/shared/theme-picker
 !src/app/shared/theme-picker/theme-toggle.component.ts
+
+!src/app/custom-elements
+!src/app/custom-elements/live-example
+!src/app/custom-elements/live-example/live-example.component.ts
+!src/app/custom-elements/live-example/live-example.component.html
