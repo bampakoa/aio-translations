@@ -33,8 +33,6 @@
 !tools
 !tools/transforms
 !tools/transforms/templates
-!tools/transforms/templates/lib
-!tools/transforms/templates/lib/githubLinks.html
 !tools/transforms/templates/error
 !tools/transforms/templates/error/error.template.html
 
