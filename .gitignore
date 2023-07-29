@@ -29,6 +29,8 @@
 !content/guide/reviewing-content.md
 !content/guide/setup-local.md
 !content/guide/what-is-angular.md
+!content/guide/component-overview.md
+!content/guide/understanding-angular-overview.md
 
 !tools
 !tools/transforms
