@@ -26,7 +26,8 @@
 !content/start/*
 
 !content/tutorial
-!content/tutorial/*
+!content/tutorial/tour-of-heroes
+!content/tutorial/tour-of-heroes/*
 
 !content/navigation.json
 
