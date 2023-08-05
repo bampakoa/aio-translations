@@ -57,6 +57,4 @@
 !tools/transforms/templates/error
 !tools/transforms/templates/error/error.template.html
 
-!angular.json
 !firebase.json
-!package.json
