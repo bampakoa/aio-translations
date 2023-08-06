@@ -56,5 +56,3 @@
 !tools/transforms/templates
 !tools/transforms/templates/error
 !tools/transforms/templates/error/error.template.html
-
-!firebase.json
