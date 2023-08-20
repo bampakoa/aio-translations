@@ -28,23 +28,33 @@
 !content/tutorial/tour-of-heroes
 !content/tutorial/tour-of-heroes/*
 
+!content/file-not-found.md
 !content/navigation.json
 
 !src
 !src/app
+!src/app/app.component.html
 
 !src/app/custom-elements
+
 !src/app/custom-elements/live-example
 !src/app/custom-elements/live-example/live-example.component.ts
 !src/app/custom-elements/live-example/live-example.component.html
+
+!src/app/custom-elements/search
+!src/app/custom-elements/search/file-not-found-search.component.ts
 
 !src/app/layout
 !src/app/layout/footer
 !src/app/layout/footer/footer.component.html
 
 !src/app/search
+
 !src/app/search/search-box
 !src/app/search/search-box/search-box.component.ts
+
+!src/app/shared/search-results
+!src/app/shared/search-results/search-results.component.html
 
 !src/app/shared
 !src/app/shared/theme-picker
